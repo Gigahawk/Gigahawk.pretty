@@ -6,4 +6,14 @@ K switch, dpdt
 F Manufacturer Recommendations
 $ENDCMP
 #
+$CMP SFV14R-2STE1HLF
+D FPC connector 0.5mm pitch 14pos top contact
+F https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10112793.pdf
+$ENDCMP
+#
+$CMP SFV8R-2STE1HLF
+D FPC connector 0.5mm pitch 8pos top contact
+F https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10112793.pdf
+$ENDCMP
+#
 #End Doc Library
