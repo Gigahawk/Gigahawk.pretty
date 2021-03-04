@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP Adafruit_Feather_Generic
+D Microcontroller module in various flavor, generic symbol
+K Adafruit feather microcontroller module
+F https://cdn-learn.adafruit.com/downloads/pdf/adafruit-feather.pdf
+$ENDCMP
+#
 $CMP EG2219
 D DPDT slide switch
 K switch, dpdt
