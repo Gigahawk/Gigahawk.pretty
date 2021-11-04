@@ -12,6 +12,21 @@ K switch, dpdt
 F Manufacturer Recommendations
 $ENDCMP
 #
+$CMP PAM2421
+D 3A PWM STEP-UP DC-DC CONVERTER
+F https://www.diodes.com/assets/Datasheets/PAM2421_22_23.pdf
+$ENDCMP
+#
+$CMP PAM2422
+D 4.5A PWM STEP-UP DC-DC CONVERTER
+F https://www.diodes.com/assets/Datasheets/PAM2421_22_23.pdf
+$ENDCMP
+#
+$CMP PAM2423
+D 5.5A PWM STEP-UP DC-DC CONVERTER
+F https://www.diodes.com/assets/Datasheets/PAM2421_22_23.pdf
+$ENDCMP
+#
 $CMP SFV14R-2STE1HLF
 D FPC connector 0.5mm pitch 14pos top contact
 F https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10112793.pdf
