@@ -27,6 +27,10 @@ D 5.5A PWM STEP-UP DC-DC CONVERTER
 F https://www.diodes.com/assets/Datasheets/PAM2421_22_23.pdf
 $ENDCMP
 #
+$CMP PJ-202A
+F https://www.cuidevices.com/product/resource/pj-202a.pdf
+$ENDCMP
+#
 $CMP SFV14R-2STE1HLF
 D FPC connector 0.5mm pitch 14pos top contact
 F https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10112793.pdf
